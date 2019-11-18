@@ -61,3 +61,7 @@ h3.title {
 .projectScreenshot {
     margin-bottom: 30px;
 }
+
+#alexaImage {
+    height: 100px;
+}
